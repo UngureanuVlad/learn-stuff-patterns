@@ -1,2 +1,2 @@
 # learn-stuff-patterns
-Learn Stuff - Software engineering - design patterns code samples.
+LearnStuff.io - Software engineering - design patterns code samples.
